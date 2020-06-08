@@ -2,7 +2,6 @@
 // https://github.com/willymcallister/willymcallister.github.io/blob/fbc7f396fbe80186b1abc63e436ec509190c1b3a/assets/main.scss
 
 $base-font-size:    18px !default;
-$comment-font-size: 17px !default;
 
 
 //
@@ -10,9 +9,6 @@ $comment-font-size: 17px !default;
 //
 input, select, textarea, label, button {
 //    @extend body;
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
         -moz-font-feature-settings: "kern" 1;
@@ -42,7 +38,7 @@ textarea {
     border: 1px solid rgba(0,0,0,.12);
     padding: 4px 5px;
     width: 100%;
-    font-size: $comment-font-size;
+    font-size: .75rem;
 }
 .notify-me, .g-recaptcha {
     padding: 0.5rem 0;
@@ -60,7 +56,7 @@ textarea {
     margin: 4px 0px 0px 0px;
 }
 button:hover {
-    background-color: $grey-color;
+    background-color: #414141;
     color: white;
 }
 
@@ -73,24 +69,24 @@ button:hover {
     padding: 0px 0px 14px 0px;
 }
 .comment__author {
-    color: $grey-color;
+    color: #414141;
 }
 .comment__date {
-    font-size: $small-font-size;
+    font-size: .75rem;
 }
 .comment__body {
-    font-size: $comment-font-size;
+    font-size: .75rem;
 }
 .comment__meta {
     text-align: left;
-    color: $grey-color;
-    font-size: $small-font-size;
+    color: #414141;
+    font-size: .75rem;
 }
 .comments__existing {
     padding: 8px 0px 0px 0px;
 }
 .comment {
-    border-top: 0px solid $grey-color-light;
+    border-top: 0px solid #414141-light;
     padding: 0px 0px 0px 0px;
     margin-bottom: 1em;
 }
@@ -98,8 +94,8 @@ button:hover {
     margin-left: 3em;
 }
 .comment__reply-link {
-    color: $grey-color;
-    font-size: $small-font-size;
+    color: #414141;
+    font-size: .75rem;
     cursor: pointer;
 }
 

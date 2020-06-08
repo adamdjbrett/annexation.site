@@ -3,6 +3,7 @@ layout: default
 comments: true
 ---
 <h1>A Letter on Annexation and Apartheid in Israel</h1>
+<span lang="en">
 
 <h2> English</h2>
 <p><em>Dear Colleagues and Friends:</em></p>
@@ -11,9 +12,16 @@ comments: true
 <p>Democracies depend upon the consent of the governed in the territories under their control. The establishment of Jewish settlements in occupied territories captured in 1967 already stands in direct violation of the consensus view in international law. The annexation of these territories is violating also UN resolutions 242 (1967) and 2334 (2016). In theory, the State of Israel could decide to extend full citizenship to all West Bank Palestinians. The most likely outcomes are more unequal distribution of land and water resources on behalf of illegal Israeli settlements, more state violence, and fragmented Palestinian enclaves under complete Israeli control. Under these conditions, annexation of Palestinian territories will cement into place an anti-democratic system of separate and unequal law and systemic discrimination of the Palestinian population on a racial, ethnic, religious, or national background. These are defined as &ldquo;conditions of apartheid&rdquo; and a &ldquo;crime against humanity&rdquo; according to the International Convention on Suppression and Punishment of the Crime of Apartheid (ICSPCA, article 2, 1973) and also by the Rome Stature of International Criminal Law (ICC, Article 7[1j] and the introduction in Article 7 [2h], 1998).</p>
 <p>The impact outside Israel will be a destructive intensification of political polarization, hatred and mutual recrimination, deep wedges in Jewish society, inevitable spike in anti-Semitism and Islamophobia, and polarization between minority communities. We stand opposed to all this.</p>
 <p>Across our differences, the signers of this letter share non-negotiable commitments to democratic values, the equal rule of law, and a sense of security for both people on the basis of the principle of mutual recognition. At this still uncertain and dangerous historical inflection point, we reject Annexation and Apartheid, racism and hatred, occupation and discrimination. We commit ourselves to an open culture of learning, cooperation, and criticism in relation to Israel and Palestine.</p>
+</span>
+<div class="mt3">
+  <a href="#signatures" class="button button-blue button-big mobile-block">Sign the Petition</a>
+
+</div>
+
 <br />
 <hr />
-<h2> Hebrew</h2>
+
+<h2>Hebrew</h2>
 
 <div style='text-align:right;direction:rtl;unicode-bidi:embed'>
 <span lang=HE>
@@ -48,23 +56,7 @@ comments: true
 </div>
 <br />
 <hr />
-<h2>Signatures</h2>
+<h2 name="signatures">Signatures</h2>
 {% if page.comments == true %}
   {% include comments.html %}
 {% endif %}
-<br />
-<hr />
-<h2>Sign the Petition</h2>
-<form method="POST" action="https://annexationsitebot.herokuapp.com/v2/connect/adamdjbrett/annexation-option2/master/comments/">
-  <input name="options[redirect]" type="hidden" value="https://annexation.site/thanks/">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label><br />
-  <label><input name="fields[email]" type="email">E-mail</label><br />
-  <label><input name="fields[institution]"></input>Institution</label>
-  <input type="hidden" name="options[reCaptcha][siteKey]" value="YOUR-SITE-KEY">
-  <input type="hidden" name="options[reCaptcha][secret]" value="YOUR-ENCRYPTED-SECRET">
-  <br />
-  <div class="g-recaptcha" data-sitekey="6LfuigEVAAAAANCztc6of-H02PEY7ygI1_Sthg63"></div>
-  <button type="submit">Sign!</button>
-</form>
