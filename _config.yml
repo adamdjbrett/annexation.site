@@ -83,3 +83,11 @@ exclude:
   - Rakefile
   - README.md
   - vendor
+
+# Comments
+repository  : adamdjbrett/annexation-option2
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : https://dev.staticman.net/v3/entry/github/adamdjbrett/annexation-option2/master
