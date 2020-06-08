@@ -85,9 +85,11 @@ exclude:
   - vendor
 
 # Comments
-repository  : adamdjbrett/annexation-option2
-comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "master"
-    endpoint  : https://dev.staticman.net/v3/entry/github/adamdjbrett/annexation-option2/master
+staticman_url: https://annexationsitebot.herokuapp.com/v2/connect/adamdjbrett/annexation-option2/master/comments
+
+#recaptcha
+reCaptcha:
+  siteKey: "6LfuigEVAAAAANCztc6of-H02PEY7ygI1_Sthg63"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  secret: "FzE+NHg7DcR6kOFTG4l0ki0zKzp+KVQOGOSBnrhj2yrciN3nNvgnmdAfgw8eAZ6/XYT0vdOdc11owCvOS6jXZDYO/4b6mDcAAq/j8L4U27FeDjXacr4gQf18XqhBVmPPBlS+AtHjnNJzpoTt4fbIkO8t/roC96jlMO8aN5ly/S0="

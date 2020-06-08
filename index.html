@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <h1>A Letter on Annexation and Apartheid in Israel</h1>
 
@@ -47,14 +48,20 @@ layout: default
 </div>
 <br />
 <hr />
+<h2>Signatures</h2>
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
+<br />
+<hr />
 <h2>Sign the Petition</h2>
-<form method="POST" action="https://dev.staticman.net/v3/entry/github/adamdjbrett/annexation-option2/master/signatures/">
+<form method="POST" action="https://annexationsitebot.herokuapp.com/v2/connect/adamdjbrett/annexation-option2/master/comments/">
   <input name="options[redirect]" type="hidden" value="https://annexation.site/thanks/">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
   <label><input name="fields[name]" type="text">Name</label><br />
   <label><input name="fields[email]" type="email">E-mail</label><br />
-  <label><input name="fields[instituion]"></input>Institution</label>
+  <label><input name="fields[institution]"></input>Institution</label>
   <input type="hidden" name="options[reCaptcha][siteKey]" value="YOUR-SITE-KEY">
   <input type="hidden" name="options[reCaptcha][secret]" value="YOUR-ENCRYPTED-SECRET">
   <br />
