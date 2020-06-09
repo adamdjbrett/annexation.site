@@ -8,6 +8,14 @@
   <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
 
   <fieldset>
+  <div class="textfield">
+    <label for="comment-form-message"><h2>Add Comment<small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
+      <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message"></textarea>
+    </label>
+  </div>
+  </fieldset>
+
+  <fieldset>
     <div class="textfield">
       <label for="comment-form-name">Name
         <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Your name"/>
@@ -18,15 +26,7 @@
   <fieldset>
     <div class="textfield">
       <label for="comment-form-email">E-mail
-        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (used only to confirm signatures.)"/>
-      </label>
-    </div>
-  </fieldset>
-
-  <fieldset>
-    <div class="textfield">
-      <label for="comment-form-institution">Institution
-        <input class="textfield__input" name="fields[institution]" type="text" id="comment-form-institution" placeholder="Your Institution"/>
+        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (optional, used only to send comments.)"/>
       </label>
     </div>
   </fieldset>
@@ -39,7 +39,9 @@
     </div>
   </fieldset>
 
-  
+  <fieldset>
+    <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+  </fieldset>
 
   <fieldset>
     <button class="button" id="comment-form-submit">

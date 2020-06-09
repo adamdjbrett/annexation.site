@@ -38,7 +38,8 @@
   {% assign replying_to = r | to_integer %}
   {% assign email       = reply.email %}
   {% assign name        = reply.name %}
-  {% assign url         = reply.institution %}
+  {% assign url         = reply.url %}
   {% assign date        = reply.date %}
+  {% assign message     = reply.message %}
   {% include comment.html index=index replying_to=replying_to email=email name=name url=url date=date message=message %}
 {% endfor %}
