@@ -62,11 +62,13 @@ comments: true
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/xdowznjb" method="post">
+  <div class="g-recaptcha" data-sitekey="6LfuigEVAAAAANCztc6of-H02PEY7ygI1_Sthg63"></div>
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required=""><br />
     <label for="institution">Institution</label>
     <input type="text" name="institution" id="institution" placeholder="Institution" required=""><br />
+    <input type="text" name="_gotcha" style="display:none" />
     <label for="email-address">Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""><br />
   </fieldset>
