@@ -38,7 +38,8 @@ addEventListener("fetch", function(e) {
           "https://fonts.googleapis.com",
           "https://fonts.gstatic.com",
           "https://maxcdn.bootstrapcdn.com",
-          "https://cdnjs.cloudflare.com"
+          "https://cdnjs.cloudflare.com",
+          "https://cdn.commento.io"
         ];
         hosts.map(function(host) {
           if (e.request.url.indexOf(host) === 0) {
