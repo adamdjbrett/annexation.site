@@ -4,3 +4,5 @@ title: Thanks For Your Support
 permalink: /thanks/
 ---
 {{ site.text.thanks }}
+
+## [View Signatures](/signatures/)
