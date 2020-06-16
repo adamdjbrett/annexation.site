@@ -35,7 +35,9 @@ addEventListener("fetch", function(e) {
         return response || fetch(e.request).then(function(response) {
         var clonedResponse = response.clone();
         var hosts = [
-          "https://cdn.commento.io"
+          "https://googleapis.com",
+          "https://gstatic.com",
+          "https://google.com"
         ];
         hosts.map(function(host) {
           if (e.request.url.indexOf(host) === 0) {
