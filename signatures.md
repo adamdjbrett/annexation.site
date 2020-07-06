@@ -100,7 +100,7 @@ Corinne Blackmer, Southern Connecticut State University
 Michael Walzer, Princeton University
 Chaim Seidler-Feller, UCLA
 Fred A. Lazin, Ben Gurion University of the Negev
-Arie Dubnov, The George Washington university 
+Arie Dubnov, The George Washington university
 Paul Mendes-Flohr, University of Chicago
 Shai Ginsburg, Duke University
 Julia Phillips Cohen, Vanderbilt University
@@ -291,7 +291,7 @@ Prof. Aner Preminger, The Hebrew University, Jerusalem; Sapir Academic College
 Ariel Toaff, Bar-Ilan University
 Emanuela Trevisan, Ca Foscari université Venice
 יאירה אמית, Tel Aviv University
-Ronit Meroz, Tel Aviv Universtiy
+Ronit Meroz, Tel Aviv University
 Avner Ben-Amos, Tel-Aviv University
 Keith Kahn-Harris, Leo Baeck College
 Joseph Zeira, Hebrew University of Jerusalem
@@ -303,7 +303,7 @@ Zohar Segev, University of Haifa
 Robert Weinberg, Swarthmore College
 Maren Niehoff, Hebrew University
 Roy Shukrun, McGill University
-Talya Fishman, University of Pennsylvania
+Talya Fishman, University of Pennsylvania 
 Hartley, Lachter
 Guri Schwarz, University of Genoa
 Assnat Bartor, Tel aviv university
