@@ -4,8 +4,8 @@ title: signatures
 permalink: /signatures/
 ---
 
-Name, Institution
-Zachary Braiterman, Syracuse University
+Name, Institution  
+Zachary Braiterman, Syracuse University  
 Nitzan Lebovic, Lehigh University
 Shaul Magid, Dartmouth College
 Alon Marcus, Retired
@@ -21,7 +21,7 @@ Aaron Hahn Tapper, University of San Francisco
 Elliot Ratzman, Grinnell College
 James Loeffler, University of Virginia
 Laura Levitt, Temple University
-Geoffrey Claussen, Elon University
+Geoffrey Claussen, Elon University 
 Beth Berkowitz, Barnard College
 Ira Stone, Center for Contemporary Mussar
 Irene Tucker, University of California, Irvine
