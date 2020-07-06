@@ -303,7 +303,7 @@ Zohar Segev, University of Haifa
 Robert Weinberg, Swarthmore College
 Maren Niehoff, Hebrew University
 Roy Shukrun, McGill University
-Talya Fishman, University of Pennsylvania 
+Talya Fishman, University of Pennsylvania
 Hartley, Lachter
 Guri Schwarz, University of Genoa
 Assnat Bartor, Tel aviv university
@@ -567,4 +567,4 @@ Todd Hasak-Lowy, School of the Art Institute of Chicago
 Teodoro Cohen, Student
 
 ## Updates
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 400px; }</style><div class='embed-container'><iframe src='https://docs.google.com/spreadsheets/d/e/2PACX-1vTMpY3_nwtrzrZuZV_6fJFwCAjeHdV-ZomvNDecRdOT_K4ZD--Q8klEerR7MRCKe3jc3Db-vIffCY7C/pubhtml?gid=450931831&rm=minimal'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 400px; }</style><div class='embed-container'><iframe src='https://docs.google.com/spreadsheets/d/e/2PACX-1vTMpY3_nwtrzrZuZV_6fJFwCAjeHdV-ZomvNDecRdOT_K4ZD--Q8klEerR7MRCKe3jc3Db-vIffCY7C/pubhtml?gid=450931831&rm=minimal'></iframe></div> 
