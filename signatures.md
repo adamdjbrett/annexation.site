@@ -21,7 +21,7 @@ Aaron Hahn Tapper, University of San Francisco
 Elliot Ratzman, Grinnell College
 James Loeffler, University of Virginia
 Laura Levitt, Temple University
-Geoffrey Claussen, Elon University 
+Geoffrey Claussen, Elon University
 Beth Berkowitz, Barnard College
 Ira Stone, Center for Contemporary Mussar
 Irene Tucker, University of California, Irvine
@@ -100,7 +100,7 @@ Corinne Blackmer, Southern Connecticut State University
 Michael Walzer, Princeton University
 Chaim Seidler-Feller, UCLA
 Fred A. Lazin, Ben Gurion University of the Negev
-Arie Dubnov, The George Washington university
+Arie Dubnov, The George Washington university 
 Paul Mendes-Flohr, University of Chicago
 Shai Ginsburg, Duke University
 Julia Phillips Cohen, Vanderbilt University
