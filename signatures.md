@@ -4,13 +4,10 @@ title: signatures
 permalink: /signatures/
 ---
 
-**Name, Institution**  
-
-Zachary Braiterman, Syracuse University  
-
-Nitzan Lebovic, Lehigh University
-
-Shaul Magid, Dartmouth College
+**Name, Institution** \\
+Zachary Braiterman, Syracuse University  \\
+Nitzan Lebovic, Lehigh University  \\
+Shaul Magid, Dartmouth College  \\
 
 Alon Marcus, Retired
 
