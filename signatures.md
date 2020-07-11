@@ -1,10 +1,10 @@
 ---
 layout: page
-title: signatures
+title: Signatures
 permalink: /signatures/
 ---
 
-**Name, Institution**   \\
+## Name, Institution   \\
 Zachary Braiterman,Syracuse University  \\
 Nitzan Lebovic,Lehigh University  \\
 Shaul Magid,Dartmouth College  \\
