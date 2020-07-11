@@ -8,13 +8,10 @@ permalink: /signatures/
 Zachary Braiterman, Syracuse University  \\
 Nitzan Lebovic, Lehigh University  \\
 Shaul Magid, Dartmouth College  \\
-Alon Marcus, Retired 
-
-Lila Corwin Berman, Temple University
-
-Mira Sucharov, Carleton University
-
-DAVID MYERS, UCLA
+Alon Marcus, Retired      
+Lila Corwin Berman, Temple University     
+Mira Sucharov, Carleton University     
+DAVID MYERS, UCLA     
 
 Joshua Shanes, College of Charleston
 
