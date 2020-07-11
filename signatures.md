@@ -567,7 +567,7 @@ Todd Hasak-Lowy,School of the Art Institute of Chicago  \\
 Teodoro Cohen,Student  \\
 Laura Bienes,Private Citizen   \\
 Guri Schwarz,University of Genoa  \\
-Gudrun Gilhuis,PKN  \\
+Gudrun Gilhuis,PKN  
 
 
 ## Updates
