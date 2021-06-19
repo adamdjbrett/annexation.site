@@ -568,7 +568,8 @@ Teodoro Cohen, Student  \\
 Laura Bienes, Private Citizen   \\
 Guri Schwarz, University of Genoa  \\
 Gudrun Gilhuis, PKN     \\
-Robert Alter,	University of California, Berkeley
+Robert Alter,	University of California, Berkeley \\
+Rebecca Alpert, Temple University \\
 
 
 ## Updates
